@@ -2,7 +2,7 @@
     "__Author__": "WIFIGUN",
 	"Title": "NameMC",
 	"Description": "Minecraft用戶名/外觀和伺服器查詢",
-    "Keywords": "UserNames",
+    "Keywords": "Servers",
 	"Types": ["参考工具"],
 	"IsEvent": true,
 	"EventType": "打开网页",
